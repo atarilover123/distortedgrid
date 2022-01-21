@@ -1,2 +1,4 @@
-Quick and hacky version of Paketa12's TouchDesigner Elastic grid tutorial in Processing
+Quick and hacky version of Paketa12's TouchDesigner Elastic grid tutorial in Processing.
+Currently each block represents color value of 1 pixel - mods/improvements could come from sampling the image position using get or copy.
+The grid math is a little off (expand the sketch size and remove frame to see)
 Paketa12 TouchDesigner tutorial: https://www.youtube.com/watch?v=lpGDkOfzP-4&t=614s&ab_channel=paketa12
